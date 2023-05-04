@@ -143,7 +143,7 @@
     <elementParameter field="CHECK" name="CONVERT_TYPES_TO_STRINGS" value="false"/>
     <elementParameter field="TABLE" name="HEADERS">
       <elementValue elementRef="NAME" value="&quot;X-RapidAPI-Key&quot;"/>
-      <elementValue elementRef="VALUE" value="&quot;3252339f5dmsh640c76fdd5ab604p147a43jsn17666416a0cb&quot;"/>
+      <elementValue elementRef="VALUE" value="YOUR_API_KEY_HERE"/>
       <elementValue elementRef="NAME" value="&quot;X-RapidAPI-Host&quot;"/>
       <elementValue elementRef="VALUE" value="&quot;online-movie-database.p.rapidapi.com&quot;"/>
     </elementParameter>
